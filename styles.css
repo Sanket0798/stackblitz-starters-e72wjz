@@ -36,6 +36,30 @@ header h1 {
   margin-bottom: 10px;
 }
 
+.section1-h2 {
+  padding: 0 10px;
+}
+
+.section1-p {
+  padding: 0 10px;
+}
+
+.section2-h2 {
+  padding: 0 10px;
+}
+
+.section2-p {
+  padding: 0 10px;
+}
+
+.third-section-h2 {
+  padding: 0 10px;
+}
+
+.third-section-p {
+  padding: 0 10px;
+}
+
 header p {
   font-size: 1.2em;
   font-style: italic;
